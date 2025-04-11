@@ -8,6 +8,7 @@ namespace WpfApp1
 {
     public class Calculator
     {
+        private int _result;
         public int Add(int a, int b)
         {
             return a + b;
